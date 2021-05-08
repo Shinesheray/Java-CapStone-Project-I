@@ -1,0 +1,23 @@
+Order number: 1061
+Customer: Jason Leevs
+Email: Jason@yahoo.com
+Phone number: 084 9696 188
+Location: Johannesburg
+
+
+You have ordered the following from Quick Foods in Johannesburg:
+8x  Burger (R50.00)
+4x  Fries (R45.00)
+
+
+Special instructions: Please add extra cheese to the burger
+
+Total: R580.00 
+
+Tyron Bonilla is nearest to the restaurant and they will be delivering your
+order to you at:
+
+45 8th Street 
+Johannesburg
+ 
+If you need to contact the restaurant, their number is 011 521 1254.
